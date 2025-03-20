@@ -1,0 +1,5 @@
+{
+  "type": "enhancement",
+  "category": "docs",
+  "description": "Bump Sphinx and Furo versions"
+}
