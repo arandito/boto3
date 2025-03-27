@@ -1,0 +1,5 @@
+{
+  "type": "enhancement",
+  "category": "dependency",
+  "description": "upgrade sphinx and furo"
+}
