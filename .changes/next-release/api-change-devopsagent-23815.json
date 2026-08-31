@@ -1,5 +1,0 @@
-{
-  "type": "api-change",
-  "category": "``devops-agent``",
-  "description": "[``botocore``] Adds support for Slack bidirectional communication configuration in AWS DevOps Agent agent spaces."
-}
