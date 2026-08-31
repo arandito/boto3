@@ -1,0 +1,5 @@
+{
+  "type": "api-change",
+  "category": "``agent-registry``",
+  "description": "[``botocore``] AWS Agent Registry becomes Generally Available"
+}
